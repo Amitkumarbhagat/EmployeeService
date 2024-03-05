@@ -50,7 +50,7 @@ namespace EmployeeService.Controllers
             }
         }
 
-        // POST:
+        // POST: method
 
         public HttpResponseMessage Post(Employee employee)
         {
